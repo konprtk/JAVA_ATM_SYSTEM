@@ -19,7 +19,7 @@ To run this project on your local machine, follow these steps:
    ```
 3. Compile the Java source code:
    ```
-   javac Main.java
+   javac *.java
    ```
 4. Run the program:
    ```
