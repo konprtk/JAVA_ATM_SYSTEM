@@ -1,4 +1,4 @@
-package com.ATM;
+package JAVA_ATM_SYSTEM;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
