@@ -1,4 +1,4 @@
-package com.ATM;
+package JAVA_ATM_SYSTEM;
 
 class InsufficientBalanceException extends RuntimeException {
 
