@@ -7,10 +7,12 @@ This simple console-based ATM application allows users to perform various bankin
 ## Getting Started
 
 To run this project on your local machine, follow these steps:
+
+Method 1:
  
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/JAVA_ATM_SYSTEM.git
+   git clone https://github.com/konprtk/JAVA_ATM_SYSTEM.git
    ```
 
 2. Navigate to the project directory:
@@ -23,8 +25,25 @@ To run this project on your local machine, follow these steps:
    ```
 4. Run the program:
    ```
-   java main
+   java Main
    ```
+
+Method 2:
+
+1. Clone the repository to your local Machine:
+   ```
+   git clone https://github.com/konprtk/JAVA_ATM_SYSTEM.git
+   ```
+2. Compile all 3 Java source code files:
+   ```
+   javac JAVA_ATM_SYSTEM/*.java
+   ```
+3. Run the Program:
+   ```
+   java JAVA_ATM_SYSTEM.Main
+   ```
+
+   
 ## Features
 
 - **Deposit Amount:** Allows users to deposit funds into their account.
