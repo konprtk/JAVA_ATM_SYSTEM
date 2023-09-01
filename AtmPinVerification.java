@@ -60,11 +60,11 @@ public class AtmPinVerification {
 		int Npin;
 		int Upin;
 		
-		System.out.println("Enter Old Pin: ");
+		System.out.print("Enter Old Pin: ");
 		Upin = prtk.nextInt();
 	while(true) {
 		if(Upin == Oripin) {
-			System.out.println("Enter New Pin : ");
+			System.out.print("Enter New Pin : ");
 			Npin = prtk.nextInt();
 			if(Npin == Oripin) {
 				System.out.println("Don't use Old Pin as New Pin..!!");
@@ -73,7 +73,7 @@ public class AtmPinVerification {
 			else {
 				try{ 
 						//Oripin = Npin;
-				System.out.println("Confirm Pin: ");
+				System.out.print("Confirm Pin: ");
 				int Cpin = prtk.nextInt();
 				if(Cpin == Npin) {
 					System.out.println("Pin Changed!!");
