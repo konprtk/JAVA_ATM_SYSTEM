@@ -67,5 +67,7 @@ Contributions are welcome! If you find any bugs or want to improve the project, 
 ## Contact
 
 For any questions or suggestions, feel free to reach out to me:
-- Email: official.pratik.2003@gmail.com
-- GitHub: konprtk(https://github.com/konprtk)
+- Email: [Pratik Lokhande](official.pratik.2003@gmail.com)
+- GitHub: [konprtk](https://github.com/konprtk)
+- LinkedIn: [Pratik Lokhande](https://linkedin.com/in/pratiklokhande14)
+- CodePen: [konprtk](https://codepen.io/konprtk)
